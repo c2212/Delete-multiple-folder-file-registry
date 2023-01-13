@@ -1,4 +1,4 @@
-(------bat for delete multiple folder ,file and registry key------)
+(------Batch script for delete multiple folder ,file and registry key------)
 
 
 Del folder_file:
